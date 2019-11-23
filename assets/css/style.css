@@ -64,7 +64,6 @@ a:hover {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     font-size: 36px;
     font-weight: bold;
-    background-color: #4aaaa5;
     color: #ffffff;
     padding: 10px;
 }
@@ -115,7 +114,7 @@ img {
 
 body { 
 
-
+    height: auto;
 }
 
 /*#floated{
@@ -137,6 +136,7 @@ footer {
     border-top: 8px solid #291528;
     text-align: center;
     height: auto;
+    padding-top: 60px;
 }
 
 form {
