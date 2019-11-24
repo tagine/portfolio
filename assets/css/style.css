@@ -6,7 +6,7 @@
 }
 
 h1 {
-    font-family: font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
     
 }
 
@@ -36,7 +36,7 @@ body {
 .container {
     width: 960px;
     padding: 20px;
-    margin: 0 auto;
+    margin: auto;
 }
 
 p {
@@ -144,3 +144,8 @@ form {
 
 }
 
+@media screen and (max-width: 1000px) and (min-height: 673px) {
+    p {
+      width: 65%;
+    }
+  }
