@@ -87,7 +87,7 @@ ul {
 
 .profile {
     display: inline;
-    float: left;
+    /* float: left; */
     padding: 20px;
 }
 
